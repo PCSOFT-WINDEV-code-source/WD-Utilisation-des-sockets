@@ -1,0 +1,162 @@
+#To edit and compare internal_properties, use WINDEV integrated tools.
+#Internal properties refer to the properties of controls in windows, reports, etc.
+info :
+ name : Fenêtre_Identification
+ major_version : 28
+ minor_version : 0
+ type : 2
+ description : Identification
+ subtype : 0
+window :
+ name : Fenêtre_Identification
+ identifier : 0x3c838a797ada3dc7
+ internal_properties : CAAAAAgAAABshTcNFBcaV1gpcPg8DDvJuIiKqusOMukvZXuLSZAS7w9m3NrwJhBgcawJZrK1XJY1BQFXYYXokPb9DV4WMODA7Q+lS6YyWx2Vjz5FlPP21hYO71Mt5mMnxrj+Fh98Ma27B34dfYBdOoKPSb8vv53Hv+wiCqPJMpevByKk4r9RZQP+Mw+41JLUvlKj3XiIv2uwxKgvox7wXIU8IaPW7EQyXWflJOuG80fYv/JaR6Plh8jU091vhvNc2AvJho/rM1aIxdcP852ef96/+y4fwboqzj/xNXBOWLXF6j7g4b33hrsrw9coARtte0hIQsllkMXApTnpL8OXxuZn6qVoA41niiIZAXCI8fR+H482P//PQP00h5Mzg677EA07TC1FyemzfdMHSjmiJRcfsQTQ5YZTOYkdUgA/Cz/nuKuO2jtcQ2Hx6lOzJY0Z+8jkcwRwEX3UH+qOeRse0YVRBfh6OrD26uUFR1qYTQqYfZY9S/HWmNvL6HGVSFp3gOuM7XP3qUm92TjvJVkbEUyPWr4Ba4da/o16gbXU/jdNDu8NNIj1Wl/Ttdpoihm2L2PkThmum1JuS2xGvFl0fYJQsAPxwjBg1S88RFolM85K56FdJY95YGgEckHr1nrdWihfOijJ9zQ6GE/BpVx1NFWk0VJwI7zJL1yEHhmPzVlOq4HFItcICLMttU8UhDNys4dJqEbacWQygve/M7Eh+FM6J18P25LQVpxBpK+fXfShCVDhjHGCMyQxhkLMuP7f5T6pklYtbOOseEzMTzo4FOq3txFNm0tJfN/F50M=
+ properties :
+  width : 290
+  height : 204
+  widthClient : 288
+  heightClient : 172
+ controls :
+  -
+    name : Saisie_Serveur
+    identifier : 0x3c838a7b41fd4766
+    internal_properties : CAAAAAgAAACFnrytO4SvQmCtrXVW68SIyPgnwazXH+sm0cXWQyA2e9AJNkBXW4Y3R5ZsalXrxpb+t6MMRwXm+CcmG8sZOBJOqoceAzw92rVA9Q98tibqrzCk3Cc43eCmoL0luXIYzfP7mQaT9HYZ6Nt4rrwIB07Pvy/L37gRLBZTmpA2kL4Z0Vi+T9hBTxotj2pTaZOPTKY6PCkcPZ1I0/Sshsh2AcbTk0CTfQLVqFhaOyPJq1NpKFkkpWK4UgW1uO/TZBBjDbtq9AJ8YGBtW6JVHGxd8iCulNNGXR1iQdN4Ph3Z6cAP2UDgg5B7nH4vHml8vVOA6Bw1pdZStMBFGU/2s1wf7jQ68QsLdFErvLY3YE4U+flpmMN85wIBwLySONMFCtleRgdGrE5B6d5cA2GsI8izI9e1BdwUx7N5d/+TazEQ9ZPWc1ltU0uv+Ks+EMuKXOJhRm8d9abo1z2+IRXnpdcRqmLcJ0QwpZe0b4h3/b9WKSQytQ4kL2dkqebIQBqrhlxuwplMrnE7zCZ3Morh+rmmuOqoFXKqbr4zwkXEC/Na4Bm1UuEkgTKZrZP5fTl5TQ58mZQF8IEzEPB3AkDHWKEkHG11b+y9pjKg62AWRdQUXcbfRopvwbz711vcYLpXDlX2qdQqUvIwDPdHU81qROjYIhzOVyYIGdMxB4ex2xSyZtfbtaG+rBF54TUuQUzFw9J/TVBwwQ59Eew9k7vGTM0rp0bEjK4p+fSjWGwtitwJnP0INi+648x3jupH8LzMJCmo9s0nB5EkcIDbyPn04mAfhvJZDmWAxDvIlHGBLVuKVNacyg6SdJg0YEykdYNNkmmFr272Qcnk7OOWIfyjOlYSChyFtovILMtYNZFY8UTJvETFdFvq3ejEGnA9W79r++NpgdpBmNizuKS9GEmwm1DNq04o+ImNJ9yCz+Qt0ctTu3c/imHt5gEQCgAmUc6C8VF6KJCTTQqLBWEg0ioZafBRxCr7yFMc16TENjfpai2rTTTwvjlxb9yBI4a/BRFF9FlJAKt1SmqHsxg5Z9udlqGaxQRj/v3DDfitTOduFHEaAGudHQDGouMv52GJ/kkSQIneY07jOdsOEku9MDsLgEVHaQi9wXvpF+xqjI0=
+    properties :
+     x : 13
+     y : 36
+     width : 262
+     height : 22
+    type : 2
+    code_elements :
+     type_code : 3
+     p_codes :
+      -
+        code : |1+
+         MoiMeme = NetNomMachine()
+        type : 14
+      -
+        type : 276
+        enabled : false
+      -
+        type : 277
+        enabled : false
+      -
+        type : 278
+        enabled : false
+  -
+    name : Saisie_Pseudo
+    identifier : 0x3c838a8a383380f2
+    internal_properties : CAAAAAgAAABBTl5zfTIyVEQc9ICwoJ54365ZYh1y5DzWIGFMw8BYhTF4D4VGQelsKKf8PAv9amzKPM1i3ehuPshCruCSVSkPGUKAAqP9MZW0XkyUYzWB1o6JqsY90eeNFeeBcg+7R0yx73I3tP4FNdL1MLtOjT9c95S1cwh3gYy/eoJXkI6Il/+Y4t26S/Al4zNWIAfO20nVkqomesEEmOkK6baWsZpdbReqkj3k9b+WxwBbPGGka42ZttucXaNF1fGtVjskWSdPgxY7joN9Z7wIyBaaVNZBLEzwpPPd3iIBlLICZE9b1gboYmii5775Qx9G3BrC2dVz+e1IUCDZWR8Zqe3M7zXxhdLnn1aowNF7TDMGBI00nvjT5no3KFgUhoX+2LT+U+rQ5igu9n5b0TOo184BmXNlak2fxFKoGxCZo+N7tvfOnNT1191A0ErgftWEmnkjQabnQcOA1DwkkKWr90lX6xk69NcltsI+h6y7EiG2V9RTRxR/6Q03a8r6EDwZI3/7QA0JyFpCar8NMuMtsesNcTJBLXr5Ji63PaCFZrT+uKTi8rgBo4lJO7boLvZEVry47HUm/eR0FvxkvyNeI/pyzFAKhpcA/zBwNjs1WCctK/IcB9EKoLnVZ4iDv/V8JU8O+PmvMyNzPKkUjAyNAdfCSmfptN8PZhWlogSWVN31VhGmxHBZ6w6Rzx7DDn26Op6ZOJ39+nG2Xb4C7DrhGxrNM5WFi0mSFEobp3s8tTH4yIv3Id7FNgXTFLe0oUkps/3CKdgorFDh4GbefwzjA3OF3g+q20bfQfNWwyhQGIq/nMh1B/Ehr8lABpVf2JokJ/HDkHPjmvgJhtMDRjXIiznCwNGIgQJV6+1AOkhlanu+HMoKN2YhyNlgtN/eGABAIl8DtKesp41CiiTkM0yvaFcvVxU17VIa5kBwWi2Cmk4kJ+Hwxxo6e+i06FHNNEW5RokMe5/CSDPeW/V/axFEoJXbeIN8rZwxLiZM2wBE2bwQn8CLUDMG3j52enW8tF7TcVu3AkeymV6G7YbWWI8C/iz+YvUqKY1B2PON99K8sTA8fiqeJ9TJnaUjuW4V/fiCFpym5SOGDvtMLI4h8Ia5fIAirTbF
+    properties :
+     x : 13
+     y : 66
+     width : 262
+     height : 22
+    type : 2
+    code_elements :
+     type_code : 3
+     p_codes :
+      -
+        code : |1+
+         MoiMeme = NetNomMachine()
+        type : 14
+      -
+        type : 276
+        enabled : false
+      -
+        type : 277
+        enabled : false
+      -
+        type : 278
+        enabled : false
+  -
+    name : OK
+    identifier : 0x3c838aac34f70657
+    internal_properties : CAAAAAgAAADa5w1fpM7RRypqcQZsYFAhrxHmoD6oBnBM2L3o0wGERLYMGb6eWoHnKful/kdvPxweSfQmGys8nnVI15IiKkszJNBAdLnH+hk7bnngcI6yjCk7guvCvU4o7/w20WHXo5s83/oxcMoVjOilyup5RyWVdlfbb5NemxXykLGgC03etBKQ9pNpMiKqIw2A3ra/7DUYRUsPuQlZupdHQE0vaLgk12CjBboYZmvVBF8yxpq394ZzSH7LycjbW+v9x9N/ljkK4t4xvz05nPmar97yhyDKWGkZmQ0MGkF+Yf231hu7+IXQ5FX6sbSwlP7kynv0RK/p2KrKzqyspyfKpRPlcILVoKOu+V0F8SAlOzyohZWI/fmplPmp1s5NAsMQbA1Qq+plcEqvqMGQKvYEhF+hKGyyt1qxUchkgeB3qXW6CIapIztBZZywotcdCJ1YR/Rv/KO3oANgLMGRGVwSwtSU6cpippS1MlEMSLdUlN+EcUGXxyOqKViKjkSzhe4gWDgov0ZtysA55oGj0po7cSL+s7zwtKtJHpZjzgHXVOGydE2+Z7ICPzinu8mgjRavDjsad9j1zNy76P295EWn+epxBAWu2ZWiBhUTea2vNMKP5YwknblkDSIOG50MBQQwMe7VPR8BL6iH46+BU8GHJl1KVCDBw51QBKkVvabwcStJmQoZi24PK0Fdh5k2DsMjlmh7zCw4hBIvKWMCkY/tPpcNvAAjcltPlMMwXaXyEIed3HFQHbFniGEdvTHqRrXhN4wxBdElwK/v/EWk5Ja3fGiCZTLyhUJyw9BAAfTFrFAMvagYF93bEe5JN2Qtz8t9jkFH7+I3lSu+Fgd1VY68Kv8X6aChux3/lxwmcDJSzVk=
+    properties :
+     x : 66
+     y : 126
+     width : 75
+     height : 24
+    type : 4
+    code_elements :
+     type_code : 4
+     p_codes :
+      -
+        code : |1+
+         // Vérification du serveur
+         Si NetAdresseIP(Saisie_Serveur)~="" alors
+         	Info(<§$0000§>,ErreurInfo())
+         	RepriseSaisie(Saisie_Serveur)
+         FIN
+         
+         // Connexion au serveur spécifié
+         ouvresoeur(Fenêtre_client,Saisie_Serveur,Saisie_Pseudo)
+         ferme()
+        type : 18
+      -
+        type : 161
+        enabled : false
+  -
+    name : Annuler1
+    identifier : 0x3c838ab245a81c99
+    internal_properties : CAAAAAgAAAAeZ8MReH9QqRIvg11arhr9JBLgoOb6QpYxb13NqmxV1mcbx8w3bE/DReGV/gmh9EYrDO8mIlmREmztGN+/dofUuf68eiviD1EVJlQ8W7uBDSX4QBewkUdsRIUs91FX2k12vQcCSjZOIX2A9HBVBEQgJZ89LRGHlq+NV41fWHlcSAmX1RBTRPeLbx+T1KtanwQBzhIF7xuV1+SyH37kzTnr1p030e3vQagyrQuhZygygfAiPbcNcpAZsPBVNVxIGrwyj3dHFZepNn4pCZUeM/KrHTvgWFVgZd1mAnuHFd7dEQ9Pf56v0cnCc400pO8w6Tqv0b29zpm5Y55Vz2D6edJXtcJTzOlK9YSPkm56EjltN9bT9YNLoBunmb0Gb+KYYDAqp5lU9Z15rjeqB1APuKSZILYLIGoWv3nUHr1kVjHaNL0aFu6kRtj3/t6qzS4WOCScubvNc4LjGeQBVBSo9kKdlVMlF5TreJu4nYcK297/Em7Dv4G5/TRdG3EiIIwTk7OKx5Akr+qX1t5Cl7S8EnC/S5Q34w1WEjnHeyeioFbserHBh93SAJWcGQFNUuNnfw1ul1yMe2KnZGVwgVwXhzuJmKrwF0BUa2vRmfhv6a2CEBxpkUG31MP6j6Pw71iUE144rkRYgmLFO7kSHgkSSap2TEZe5RwMPdyCtBFZxacVnl2wMTTWYMm8eMiL+K4gfoufwWQ6gjRWM5VepNJnM3aOHTQLrYoVvxUis2tBBHiWuj42oKSOCOVSHjLfoZIgmU6C+5vqfx2nX/LGsn2gY/pRO9WmpNCrHU5b1SyWiWnrsR9vJmwiiTCd7wGuQk0YyAuRixeWb047oQVLD3Bkb0VWnGehbIRogXWuo40jIxNp
+    properties :
+     x : 147
+     y : 126
+     width : 75
+     height : 24
+    type : 4
+    code_elements :
+     type_code : 4
+     p_codes :
+      -
+        code : |1+
+         Ferme
+        type : 18
+      -
+        type : 161
+        enabled : false
+ menu :
+  name : _Menu
+  identifier : 0x3c838a790a313dd1
+  internal_properties : CAAAAAgAAADAfZ27Q+jJ/MBXHLGCb7PyE2Yqjvuo9mAX2ZN+LLuyQtzms1431znXR0sNCCeLESXZp1gqmo+m2mUhb2ELR2phZ8VOgUSyXddfQyxpxffipvH/iiFuFkCLgpjx1Ah9/9/ndeRpWb0s9Qcjy8oPtW3aMcRtuglgDe5Ch9/jnC/Drp19/hhf+qz96diLw5T0yWlzg33c/E8hhMwUBdSOV69/8iDQGLfTvLoTvV3YkiQ5Dce7dxB2gUx1AVvVTykQMm7G+0haIOV568KMGgPEJluRN2XjgQ11Tb8vVxt6P2g=
+  options : []
+ languages :
+  - fr-FR
+ popup_menus : []
+ message_bar :
+  internal_properties : CAAAAAgAAAA4S0DukGb+H20fxxhr5JFMV87jsDU8NTchyOy/YrXWNlHJxXjyLFBg+U0KXnxd1+nABRvhA8PLb6sBl77ep1qN7TTmanMI7E3+9l7alCx2fZRFUEIW+p2CtqR9ANuMGyg=
+ actionbar : {}
+ code_elements :
+  type_code : 1
+  p_codes :
+   -
+     type : 180
+     enabled : false
+   -
+     type : 230
+     enabled : false
+   -
+     type : 11
+   -
+     type : 12
+   -
+     type : 17
+   -
+     type : 13
+ code_parameters :
+  internal_properties : CAAAAAgAAACVGQgYbalU7DKC3oH4ItDrjtcTHXXV/EuH8q0IbhyQlw==
+resources :
+ string_res :
+  identifier : 0x3c838a6564d9f305
+  internal_properties : CAAAAAgAAACm76HWfKGWp33VjXInA4cRlqArlgTTA862QGt72W2ld5Y=
+  strings :
+   -
+     text :
+      fr-FR : Impossible de déterminer l'adresse IP du serveur spécifié
+     index : 0
+custom_note :
+ internal_properties : CAAAAAgAAAC68/W0/adbG0nFCRhrE42B5HRnbDzVHaz86sSQyxlBk7I=
+rad :
+ internal_properties : CAAAAAgAAABoAN7PLpwJW3EiA7WVZdCA5EwrCA1rvutcDHooMWKe

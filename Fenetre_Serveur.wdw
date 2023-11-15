@@ -1,0 +1,452 @@
+#To edit and compare internal_properties, use WINDEV integrated tools.
+#Internal properties refer to the properties of controls in windows, reports, etc.
+info :
+ name : Fenêtre_Serveur
+ major_version : 28
+ minor_version : 0
+ type : 2
+ description : Fenêtre Serveur
+ subtype : 0
+window :
+ name : Fenêtre_Serveur
+ identifier : 0x3c8338fa44f2e7cc
+ internal_properties : CAAAAAgAAAASOFZOeS9etCm5K70m4382zILsMLUNtnjw80HE457Mzgd/YSyBiQEfTE02wmdleUtrDO9E93EeMPJUcJizv4xkZ/3blxqn5BnZFRgGrmjBrEnca1cUATBc22Ck3I361jZz2hnb1vzDF90U3vcUriMvHZAfnEyEkgjdsCAtDGrSKs10V0VwlzgylAqm30rIZgZSXrsoLo/QwGe7IJMR2Hjevve9cMY5WVMojW3Iz+L4vQ1FuruYJ6qOr+o2M+bDg0NpTTVW4uIAFvg1OzXa0huRaHEkKYyBbVkIuSMR2I48kxiVBO0Ocdyr1yLKOUPaTRn2MfK5g8rHKB5Qg8DbJeM3Hw4+QCZotW4bVEdZhIiRzqZMx6/XRwdc1OCu7WvT44Yg1xXT1mEXXMIy1WBf71Ynt+jDVQ1mRnuXUHTgm9QViHBCY8ADXHYDrs7K+YmZ7nRYTJ1Gx0h3HCr4y8gwcZdwkCPPhiFPgBwNuuKmd5h0OhqvMEAQqB1wX4KSMoUtuazyy/sWtBEf5ETQBmYNywqjeoIkBbAxjZmhjfYai0+giW06BX7hSZEuAfC0qriuZ/qhWFDF7gAGANvLmxVAMxKP5kZxwiKxlkMObJrcVgT+nn54aVNss2G04Rm3yo+8QKvfGkccR0zKh6GByylkne63gV366TzL3H1q7zjP7WYhQZT6fDVtg2ZN1ifetn1sdcfPktKKd6vFvrxR5zCzraJzuE04KbSsrFF/nQuoGo9jNxEYeNcHSaflWLJ8CKRj/MXdwEp7WmeQW2NamkOqVYp+cB0R
+ properties :
+  width : 494
+  height : 379
+  widthClient : 492
+  heightClient : 347
+ controls :
+  -
+    name : Table1
+    identifier : 0x3c8341291fb4e09d
+    internal_properties : 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
+    properties :
+     x : 6
+     y : 6
+     width : 480
+     height : 306
+    columns :
+     -
+       name : IP_Utilisateur
+       identifier : 0x3c8341294f66e0bb
+       internal_properties : CAAAAAgAAAA+LkAgki7asCBtVSpifaJYHBDmhIFYjN0yda47jShUjo1fSAXYBqEEJRsuuYdMfl7pzFaoAWyQrNhwMg67M7brydF4MNvWUlt6KxoL1s3RrjSZpIY8L673K60dDX7zny8PAcMoAnYBQY5SXQxDJs/ouqfLzHXXNxT7yfAeh6pgJ89AQYQ56f5W0c5AF5FKZs8AtSy7XjNFV6nmyAWytz0=
+       type : 2
+       content :
+        internal_properties : CAAAAAgAAABjdt8A4L3o31Mmr7FlIPhY6ogqxcDeXULiU3OF8mLDCTsVmPxSHr+URJnIm9cYXdUj+6+6sOrkLe8FjyEcUF/hjK9uYVVaQbKXjAYMWU11TBlCuLV11n7jLF7dW6zjmY24pbOib7mtkWslKbASIufuk4/O5i/Gtfds2sQKe2ulSYAqOHcMVQhz9gdqL3c5Ve521Gbon3caIFU9G7aYRfPeZob1kIs1pASrzuj/ygNV/bWXYS+rSJiuZ4vOQ8QYL/AdKYpJaaXrNGfdyTIo7nnZNnbnu8IE2Vh/fGLUH5tUk1XiKFMtbYyEr5muWZOX54x2L9Vep7UxbS7o5AFhTZ//k4hzaD/OW4s+fpgrnm/Gf3DNwOsybj9tAF8YKKGv74YXgjatgixTOofBgYqrZGjOX59MKD9tN9MeVeg41fny4errq4ROAmqQAmxJt8L6E7fIxNTWX9zptB9mENB+rWV4ktdARUa0q+F8oi0rSRh8Eg8UiMBipx82xGXQk4+8cFPPvzM0E97iaRXN0JEATzdXiiBLclwTkE+zGG1D7qAt0tZLlhYhFkjp80ZxVLZv8IbQnwyeAHmBGmcDg86EEYhlGlxLFjm+Z4TPk0fMaj5iKgJAfXKTjKQo0X2TGSZvGr+biCM6UK+EulYXQxO0KJWkO2sJtdGL/BYSXSHfDMhdkoFcQIbcpTlI1TKZ+pf83wuTmK0QusMrEhCi9RPZ/XAddK7i31OVYzl8+w0JQ3ktnwBir7o706AHVJc3dNjmskrjVe/x4ncLrSTzqp0X3Jb+IWbDWZlBW+iDPP0BTjUjXPN/K109gwHmPw40h7nEh0B6yJBUBcHKMwm4lQcCsSa94F8p0VRcHrmsjdtekkd0ZAXbR0EOKHos8c4YW2aS6cD2WqywLXZGNZyyWYkFqRbjHrUe8cNic+Q/eTtvHDTUOmyjgYO2EXkpTrCi424u9v6+606/ukmxCkIr6wd5JqHuor3e8kI=
+        type : 2
+       code_elements :
+        internal_properties : CAAAAAgAAACVbIAZKIyLUtOx/TRl3LdawH8KiRIbZVPHIi3CQG0ZQWORAsfR1LV9KK1m6uVL3Trxd5kjIU0MB2uWkg==
+        type_code : 3
+        p_codes :
+         -
+           type : 276
+           enabled : false
+         -
+           type : 277
+           enabled : false
+         -
+           type : 278
+           enabled : false
+         -
+           type : 41
+     -
+       name : Socket
+       identifier : 0x3c83412a5410e0e3
+       internal_properties : CAAAAAgAAADA8CW17ra7uXVibSrWdap8nnJW3qIIvOvDZS0lfzIOlmVnEmR+CNeiHfSdwaN7KiyWiZa9fEHh0etJbgn0lTWrrUS3AwvBK0esodemXHvadMxEh2jIQnPc5T4sT9iZ5VPuKiFAwV3Ql5zNicxVaNeea6YxgbhCN5pCIdid2dO0cvoBZMa2btFm8Im7RKnGTLar49rX7hkwPocTCV8SYNv7NA/hv4zxQEdIVj2Reuuw6hNtrZo=
+       type : 2
+       content :
+        internal_properties : CAAAAAgAAABjdt8A4L3o31Mmr7FlIPhY6ogqxcDeXULiU3OF8mLDCTsVmPxSHr+URJnIm9cYXdUj+6+6sOrkLe8FjyEcUF/hjK9uYVVaQbKXjAYMWU11TBlCuLV11n7jLF7dW6zjmY24pbOib7mtkWslKbASIufuk4/O5i/Gtfds2sQKe2ulSYAqOHcMVQhz9gdqL3c5Ve521Gbon3caIFU9G7aYRfPeZob1kIs1pASrzuj/ygNV/bWXYS+rSJiuZ4vOQ8QYL/AdKYpJaaXrNGfdyTIo7nnZNnbnu8IE2Vh/fGLUH5tUk1XiKFMtbYyEr5muWZOX54x2L9Vep7UxbS7o5AFhTZ//k4hzaD/OW4s+fpgrnm/Gf3DNwOsybj9tAF8YKKGv74YXgjatgixTOofBgYqrZGjOX59MKD9tN9MeVeg41fny4errq4ROAmqQAmxJt8L6E7fIxNTWX9zptB9mENB+rWV4ktdARUa0q+F8oi0rSRh8Eg8UiMBipx82xGXQk4+8cFPPvzM0E97iaRXN0JEATzdXiiBLclwTkE+zGG1D7qAt0tZLlhYhFkjp80ZxVLZv8IbQnwyeAHmBGmcDg86EEYhlGlxLFjm+Z4TPk0fMaj5iKgJAfXKTjKQo0X2TGSZvGr+biCM6UK+EulYXQxO0KJWkO2sJtdGL/BYSXSHfDMhdkoFcQIbcpTlI1TKZ+pf83wuTmK0QusMrEhCi9RPZ/XAddK7i31OVYzl8+w0JQ3ktnwBir7o706AHVJc3dNjmskrjVe/x4ncLrSTzqp0X3Jb+IWbDWZlBW+iDPP0BTjUjXPN/K109gwHmPw40h7nEh0B6yJBUBcHKMwm4lQcCsSa94F8p0VRcHrmsjdtekkd0ZAXbR0EOKHos8c4YW2aS6cD2WqywLXZGNZyyWYkFqRbjHrUe8cNic+Q/eTtvHDTUOmyjgYO2EXkpTrCi424u9v6+606/ukmxCkIr6wd5JqHuor3e8kI=
+        type : 2
+       code_elements :
+        internal_properties : CAAAAAgAAAA99FH5hCrNcgqRkoyWJDzBSD78P3MhDjXgC2xIXMIy89e3TdVp0kL4J6f/+8KBiL4POQjxEnpBxH5r7P9GkCo=
+        type_code : 3
+        p_codes :
+         -
+           type : 276
+           enabled : false
+         -
+           type : 277
+           enabled : false
+         -
+           type : 278
+           enabled : false
+         -
+           type : 41
+     -
+       name : Dernière_Action
+       identifier : 0x3c83412a75ece0f7
+       internal_properties : CAAAAAgAAACDyc3J+BvHo6W4O7r33DyNgHI2i4yXzhMNgMD52T2FlhGkuuk6W748ly3tJAMh7yh0YpFYr1w03rjGYeoiAKesgtSm8txv4roxk88xqKODSmAGoZ+rxH26kPH2O2ROBYytUYnLCBjuPU3B0SiOHJ5FsUf2dgWobSEqxvFvAPPx/bYb0Epz0EiV3To1ND5KYLza7L8wVbIDsjIM9h7QKn+9z0zA
+       type : 2
+       content :
+        internal_properties : CAAAAAgAAAAlVqI2sPA/49ItfxfMNW/IHlDm861FvxvVJ/8Wo0vZigZSS0L4hKySOLpyAdrH3Sd/4VzR61Uej28rzT5QulF/LVtHW8VcUDEh8PYgUHjgDncgZM+nc3kTxnSQ7Ii4ac2SX17mmFg4/L7H7XXdZfcJy7h0ezmzhEUqw0X1A7WUs88FY6sSyOdlrNtGGnH8l67rDRWkSB88HBNAwJE89QZ7TSWSBjmFvA9/t+S836VHHPiZGJhzuraOC37pWr4c/oe3tFrqgFa2ZaJ5T1P+Be4/iMsYSNwIPgfWhwVi7RQjoi7+zuqd1fzHeAAmN/dgIN1ZMMDliZQCiGHx4pQkhreSyn/3zUXb60hUEqqdCJPJDIwyAq+2JsDBQyGswz5TVinfUvqn33hUo2dBuO9M89aCC6Ubwu1yet85TxQo1zCDlrCKnk60RP+hCU80fLrWPGO1UIch0a4CgKDQKqJOJfHnHrrH/TF37Ok5XqB7ZdszRlmNk3KNR8K7sgIdEhumFrfj+7fWOAm8Tzfccd66oivXWqhz8A1kLNEJ6xKOPCtpiEz94KaoIYaREyk2tcRwbhgSExgYp7zryh9ugFkWjN6HTFat1hJ/eZ7VXGKZwPt2lj7OA3qyoXou01JudrKyLiE9/gHaiY4SOBi2ZNoW7T9Ee3+tmzQ0eopeqKZIti9dlEPiZoZ9JPfcuXn+1U1ZJ62V1puoQT7jbH7vmCA7+vwz2sA8Az5sD7PiDrbIayRfRxjMWa5cWoC3HKyG1z61+CTtoYunMaiL56IyE0y7G344CwRJueY+g5AjWdxyDqALGF+htQV2VKk4janNPGFBq2xW5uacok4Yk1HDwsCUUnSXikErhXkzkG8WJpKXmKAu9GUNEXHd2wiEwWHd5PDdia40WDroFGHoAWhNthLXuJpvWicIQRrpI8aVjp7yvmvS8kQ5z0ZuRkd7n6ftxxw84w98kJ2H+pVtkedt3zTAjpXCHtlEoQSZUBnq26CZrZsrv1h4KOOkEQV+A8ceEmggSg==
+        type : 2
+       code_elements :
+        internal_properties : CAAAAAgAAADdNitLhnIUs3+Hm0u2/j0hOaNOGNVmFVNlgXT3qfugPFyWzeQHxUI2nrF4IaxHzmCE2cmQkIaWtlYbE54W88P0AMYS7Nay9DU=
+        type_code : 3
+        p_codes :
+         -
+           type : 276
+           enabled : false
+         -
+           type : 277
+           enabled : false
+         -
+           type : 278
+           enabled : false
+         -
+           type : 41
+    type : 9
+    controls : []
+    code_elements :
+     type_code : 9
+     p_codes :
+      -
+        type : 35
+        enabled : false
+      -
+        type : 22
+        enabled : false
+      -
+        type : 24
+        enabled : false
+      -
+        type : 23
+        enabled : false
+      -
+        type : 25
+        enabled : false
+      -
+        type : 230
+        enabled : false
+      -
+        type : 241
+        enabled : false
+      -
+        type : 263
+        enabled : false
+      -
+        type : 262
+        enabled : false
+      -
+        type : 222
+        enabled : false
+      -
+        type : 223
+        enabled : false
+      -
+        type : 224
+        enabled : false
+  -
+    name : Arrêter
+    identifier : 0x3c8c72c31a2aa21a
+    internal_properties : CAAAAAgAAAAn2gBLy7CHIVJqm//MJFmv0Md5QCFIw0YYqLPX2jZJZtAxBNrqoUXc9S9l/1chN2wFqZVEyBKVFgcr9ljSSRrosfDRvPtOSgWoT8FLxr+zAKHx/puc/jTCoAC2K1NRZPYD9H730Cxkmw6hgoggunCNgNtfuUFSiX2fTp/xo+0TFzSlTVngdxlwcQ66zQmvI7UPjb5VtnwYht1XbNlWmxaHPCFEo80EEmEY+w93m4ZajCbjqJq46tOJbqg2bcncpIInTDS4QDZBOSXkvko6UwlXrENjpPYhhMuylzphT/BZFsF6jguPM6WkrgptHlbBgnwOWptxsDLLv7rgAWOVqEJXUc0MrvClKoCk26AZakh0uk1scLRgc9LKgXEA2rChcpH9E76URMZdu5hkT7RloLVvWlEloLaj8hOO9yhikp342jsqd9evfEc2Xe/ffBkWJ+JrPcCLL/1MdalaBWZo/OEpgK35TW+xej2ecJXXPPI6Ds7wIez9HdZk7Hr+KWh6U5pXc2f4c07Y40v2OGngvNWY4ad+ueAGiuytZUBbaG6lbaWoYLEgToFbVUP1Hs+K91JRjDucYOEwGQHOXO0EaBnNo1vUh15jIqNU2z50bJtM/u9L+w+eBgNFsE8rKGuDflxyvA0JfBSj6AsP1rEhCiXppAnWqMwaL1jI1G1MGS1ORbybhR5QUIzq9lY4qqUGzvCxD29tbQvRhsHVdAXEFxBbUZO4RdLoNRJGiVXR5HtIJiT6NRB6s5+SqNuqaRJPh+9cAlxZIIpdrtj6kjMkfCQgh11aT72hyBnjP9omnVhjbLeNIBXRzWsWcN3YslE/LiLrfU0+neW1ZcB//8beesc5PMHXos5pnWMQJs56PPgm+hs=
+    properties :
+     x : 411
+     y : 317
+     width : 75
+     height : 24
+    type : 4
+    code_elements :
+     type_code : 4
+     p_codes :
+      -
+        code : |1+
+         Ferme()
+        type : 18
+      -
+        type : 161
+        enabled : false
+ menu :
+  name : _Menu
+  identifier : 0x3c8338fa0d07e7e0
+  internal_properties : CAAAAAgAAADAfZ27Q+jJ/MBXHLGCb7PyE2Yqjvuo9mAX2ZN+LLuyQtzms1431znXR0sNCCeLESXZp1gqmo+m2mUhb2ELR2phZ8VOgUSyXddfQyxpxffipvH/iiFuFkCLgpjx1Ah9/9/ndeRpWb0s9Qcjy8oPtW3aMcRtuglgDe5Ch9/jnC/Drp19/hhf+qz96diLw5T0yWlzg33c/E8hhMwUBdSOV69/8iDQGLfTvLoTvV3YkiQ5Dce7dxB2gUx1AVvVTykQMm7G+0haIOV568KMGgPEJluRN2XjgQ11Tb8vVxt6P2g=
+  options : []
+ languages :
+  - fr-FR
+ popup_menus : []
+ message_bar :
+  internal_properties : CAAAAAgAAADAI+gGOP7WJ2UXz1CTnDn0jxab2I0iPy13ph4FhLf2lw5twYw2aLSEcXFqYgDRS3k2Ax0n2dnFDfGHwVQsgYTA42SqGkN0UC3i6kYyLISeJTztiJrOAqWKjswVqIP0s0A=
+ actionbar : {}
+ code_elements :
+  internal_properties : CAAAAAgAAADIgc8r/cjNyTlNhTEstgbUDuAHVPGybSouoaJLksTGaFSDjU0WHpVdThcF4nZKSNjkSEaVete9WJN8B/w03xu3ZSXUnPErDtABZCWPJUg9zl5hS+UuX87pvMPz30j1+bDjZBwkKl9OrD2FPbEarnnVs4vl9Qg6OtetgNPH7F37BALMPNVVMRvdUZKOKGLQMSdm6MnEdzUqrG3VHZblEJOfL/+uNsTf63D7LdA11DRABOeGQpa3LA==
+  type_code : 1
+  p_codes :
+   -
+     internal_properties : CAAAAAgAAAApCzx3n9yJxtHad/hMRxa/sWve/EbXNwsZkAtGmMXp+Utm2HhVcnWx0okfJkwy23yh3MgExnqBVdV8fzDN459DauLjFrYrQxU/cdnHy93h8ZDaIzpfjrUkL4cs5yxc7B9+2t600z2YbGJ0lc4=
+     code : |1-
+      GLOBAL
+      	CONSTANT
+      		csNomSocketEcoute = "SOCKET_ECOUTE"			// Nom de la socket d'écoute
+      	FIN
+      
+      SectionGestionTable est une SectionCritique
+      
+      // Mode de gestion des threads
+      ThreadMode(threadSectionCritique)
+   -
+     internal_properties : CAAAAAgAAAAf9FAEL80uvxhsmddwDFoNclzeBGNyou2TNIpYJLtHh5Th5XXKWZer7LssGQtG7e6Dr1XrnoeMF4Jv06h5tQsGTDAmjCPQDrR0rRt+7vKNNFKPOkK8MJ5RPP1ctAhOwct0KA9z3fiMN5nL+Od6m8mdeKc9E+UYnYa1Pob/69OQkw==
+     code : |1-
+      // On vide le contenu de la table
+      TableSupprimeTout(Table1)
+      
+      // Création de la socket
+      SocketCrée(csNomSocketEcoute,gnPortEcoute)
+      SI ErreurDétectée alors
+      	Erreur(<§$0000§> +gnPortEcoute,ErreurINfo())
+      	FinProgramme()
+      FIN
+      
+      // Lancement du thread d'écoute
+      EcouteConnexions()
+      
+      // Timer de rafraichissement de la liste des connectés
+      RaffraichissementTable()
+     type : 34
+   -
+     type : 180
+     enabled : false
+   -
+     type : 230
+     enabled : false
+   -
+     code : |1-
+      ArretServeur()
+     type : 2
+   -
+     type : 11
+   -
+     type : 12
+   -
+     type : 17
+   -
+     type : 13
+  procedures :
+   -
+     name : EcouteConnexions
+     internal_properties : CAAAAAgAAACs/f6EHjW8W4k4xu08e9/VLcQW04MzAVEXzjJVhfWvhEVKVX6J855f9aFipXflon2Z19mRTnWAGdKiL7hQUceDpKOtxOjfnvyIzGdiy2diQjuM1D5t9dHdfU6a9p50DuRahaioPl4FX2X8dG2ZkDPTSsSSM348Cm6JKoGZ26G/33yYkjJGE020T3Fp4yLZJ9P0R+Jbgyl1lA==
+     procedure_id : 4360394324521576228
+     type_code : 14
+     code : |1-
+      // Procédure automatique :
+      // La procédure est exécutée manuellement, lors d'un appel dans le code
+      // Elle s'exécutera dans un thread sécurisé (sans avoir besoin d'appeler la fonction ThreadExecute), sans utilisation de HFSQL
+      // 
+      Procédure EcouteConnexions()
+      
+      sNomCanal est une chaine
+      sNomThread est une chaine
+      
+      // On attend les connexion en permanence
+      Boucle	
+      	threadpause(2)
+      	
+      	Si SocketAttendConnexion(csNomSocketEcoute) alors
+      		
+      		// Nouvelle demande de connexion
+      		// Dans cet exemple, on accepte les connexions
+      		sNomCanal = SocketAccepte(csNomSocketEcoute)
+      		
+      		// Vérification de l'opération d'acceptation
+      		Si sNomCanal~="" alors
+      			ErreurAsynchrone(<§$0001§>,ErreurInfo())
+      			SORTIR
+      		SINON
+      			// On lance un thread pour gérer cette connexion
+      			sNomThread = sNomCanal
+      			GestionConnexion(sNomCanal)
+      						
+      		FiN
+      	FIN	
+      FIN
+     type : 458752
+   -
+     name : GestionConnexion
+     internal_properties : CAAAAAgAAADG0S4vfne17JjSuPqsBxsGIbBUlblts2BSPD042K3tqPQUY47NSMm69IFU2kbymTTuWtqvkb8oFNkt+6qLauwghy8fDM0ifNCCqg+Ncf5SZHcrqZXkH0WH40Gqh/bO7Ys4mPG3imUQI7jtygILQHuzDbDN/nHPgdqSE4MkGoUazDFklV3Z
+     procedure_id : 4360399393603839879
+     type_code : 14
+     code : |1-
+      // Procédure automatique :
+      // La procédure est exécutée manuellement, lors d'un appel dans le code
+      // Elle s'exécutera dans un thread sécurisé (sans avoir besoin d'appeler la fonction ThreadExecute), sans utilisation de HFSQL
+      // 
+      Procédure GestionConnexion(sNomConnexion)
+      
+      sMessage est une chaine
+      sIp est une chaine = SocketClientInfo(sNomConnexion,SocketAdresse)
+      
+      // Lecture des messages
+      Boucle
+      	
+      	si SignalAttend("TERM",5) alors sortir
+      	
+      	MettreAJourTable(sNomConnexion,sIp)
+      	sMessage = SocketLit(sNomConnexion,Faux,10)
+      	
+      	SELON sMessage
+      		CAS "BYE" :
+      			// Sortie de l'utilisateur
+      			SORTIR
+      			
+      		CAS "" :
+      			// Ce n'est pas une lecture bloquante, on retourne dans la boucle
+      			threadpause(1)
+      						
+      		AUTRES CAS :
+      			// Message à poster			
+      			GestionMessage(sMessage)			
+      	FIN
+      FIN
+      
+      // Fermeture de la socket
+      SocketFerme(sNomConnexion)
+     type : 458752
+   -
+     name : MettreAJourTable
+     procedure_id : 4360400643574880517
+     type_code : 14
+     code : |1-
+      Procédure MettreAJourTable(sNomSocket,sIP) <thread principal>
+      
+      nIndice est un entier
+      
+      
+      UTILISER SectionGestionTable DANS
+      
+      	// On recherche si cette connexion est déjà référencé dans la table
+      	nIndice = TableCherche(Table1.Socket,sNomSocket)
+      	
+      	// Nouvelle connexion ?
+      	Si nIndice = -1 alors
+      		// Nouvelle connexion
+      		Table1.AjouteLigne(sIP,sNomSocket,Maintenant())
+      	SINON
+      		// Mise à jour de connexion
+      		Table1.ModifieLigne(nIndice,sIP,sNomSocket,Maintenant())
+      	FIN
+      fin
+     type : 458752
+   -
+     name : GestionMessage
+     procedure_id : 4360413338370011633
+     type_code : 14
+     code : |1+
+      Procédure GestionMessage(sMessage) <thread principal>
+      
+      UTILISER SectionGestionTable DANS
+      	
+      	sNomSocket est une chaine
+      	
+      	// On renvoie le message à tous les connectés
+      	pour toute ligne de Table1
+      		
+      		// On récupère le nom de la socket
+      		sNomSocket = Socket
+      		
+      		// On vérifie l'existence de cette socket 
+      		Si SocketExiste(sNomSocket) alors		
+      			// On envoie le message
+      			SocketEcrit(sNomSocket,sMessage)	
+      		FIN
+      	FIN
+      FIN
+     type : 458752
+   -
+     name : RaffraichissementTable
+     internal_properties : CAAAAAgAAAA7f8CexCaT3KNokcNyRz3oERINaVFAff7BWzNur7RAGMaOzjoTtPiWvcmZOarOmabS49bpawLrSuHukM3D+nCltiHbZ5cw4gVNaoaw4T6GLs2my7QKCZ/uSPs1VtTEg7NEPRfCbBcADPbaifSmiAzSnsKgiai/MvkTyZdSGEwx9M82Ng==
+     procedure_id : 4360467050989700424
+     type_code : 14
+     code : |1-
+      Procédure RaffraichissementTable()
+      
+      nIndice est un entier
+      sNomSocket est une chaine
+      
+      
+      UTILISER SectionGestionTable DANS
+      
+      	// On parcours toutes les connexions de la table
+      	pour toute ligne de Table1
+      		// On récupère le nom de la socket
+      		sNomSocket = Socket
+      		
+      		// Socket supprimé ?
+      		Si SocketExiste(sNomSocket)=Faux alors
+      			Table1.Supprime()
+      			nIndice--
+      		FIN
+      	FIN
+      
+      fin
+     type : 458752
+   -
+     name : ArretServeur
+     internal_properties : CAAAAAgAAADgE0Snkg0jubsewPaICIva5yDGwGJqoDboeUb7jJEB5HdrAImuWXy0LvWVXVM5mT/UGjGyzjg7uXxk2ShdyJutd9dRRCGWkmAWwbOccKZU0gBGuEnDAw8VAMLRBujWLbZgqKVwlqGwg25krlnf6880FbqrCIw3NAz+gMfMuS1dC2CjZiVc1DOtP/FHu/Hmojp3Nk9ZDlv29F6idKttdKmlVA==
+     procedure_id : 4362986513037144733
+     type_code : 14
+     code : |1-
+      Procédure ArretServeur()
+      
+      // Arrêt du timer de rafraichissement
+      FinAutomatismeProcédure(RaffraichissementTable)
+      
+      // Arrêt du thread d'écoute
+      FinAutomatismeProcédure(EcouteConnexions)
+      
+      UTILISER sectiongestiontable dans 
+      	
+      	// On arrête tous les threads en cours 
+      	sNomSocket est une chaîne
+      	
+      	SignalModifie("TERM",signalOuvert)
+      	
+      	// Arrêt des différent threads
+      	pour toute ligne de Table1
+      		// On récupère les paramètres de cette connexion
+      		sNomSocket = Socket
+      		
+      		// Fermeture de la socket
+      		Si SocketExiste(sNomSocket) = vrai alors
+      			SocketFerme(sNomSocket)
+      		FIN
+      	FIN
+      	
+      	ThreadPause(2)
+      fin
+      
+      // Fermeture de la socket d'écoute
+      quand exception dans
+      	SocketFerme(csNomSocketEcoute)
+      faire
+      	FinProgramme(vrai)
+      fin
+     type : 458752
+  procedure_templates : []
+  property_templates : []
+ code_parameters :
+  internal_properties : CAAAAAgAAACVGQgYbalU7DKC3oH4ItDrjtcTHXXV/EuH8q0IbhyQlw==
+resources :
+ string_res :
+  identifier : 0x3c8338fd41ccf342
+  internal_properties : CAAAAAgAAACm76HWfKGWp33VjXInA4cRlqArlgTTA862QGt72W2ld5Y=
+  strings :
+   -
+     text :
+      fr-FR : "Impossible de mettre en place la socket d'écoute sur le port :"
+     index : 0
+   -
+     text :
+      fr-FR : Impossible de créer la socket nécessaire à la nouvelle connexion
+     index : 1
+   -
+     text :
+      fr-FR : BYE
+     index : 2
+   -
+     text :
+      fr-FR : Gestion
+     index : 3
+custom_note :
+ internal_properties : CAAAAAgAAAC68/W0/adbG0nFCRhrE42B5HRnbDzVHaz86sSQyxlBk7I=
+rad :
+ internal_properties : CAAAAAgAAABoAN7PLpwJW3EiA7WVZdCA5EwrCA1rvutcDHooMWKe
